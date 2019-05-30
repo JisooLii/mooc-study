@@ -1,12 +1,12 @@
 # Course Info
 
-####Course Code
+#### Course Code
 6.00SC
 
-####Course Name
+#### Course Name
 Introduction to Computer Science and Programming
 
-####Year
+#### Year
 2011
 
 ##### Did up to:
