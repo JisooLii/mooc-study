@@ -6,8 +6,9 @@
 #### Course Name
 Introduction to Computer Science and Programming
 
+#### Professor
+John Guttag
+
 #### Year
 2011
 
-##### Did up to:
-class 1. line 186
