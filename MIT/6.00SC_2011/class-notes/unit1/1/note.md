@@ -28,7 +28,7 @@
 - ex2. Alan Turing, WW2, German Engima Code Breaking Computer
 - Only do 'one thing'. Cannot run multiple kinds of programs
 
-#### Stored Program Computer 
+#### Stored Program Computer
 - Algorithm(Program) are the same as data
 - Enables to run multiple kinds of programs
 - Became to be thought as 'Program' (Interpreter)
