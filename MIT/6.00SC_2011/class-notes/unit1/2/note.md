@@ -99,8 +99,11 @@ without going back with any loops to execute a command more than once
 - Incorrect: 6/0
 
 
-Every program is a sequence of _expressions_.
-*Expressions* are made up with operators, operands and functions.
-*Everything constituting expression* is object
+Every program is a sequence of **expressions**.
+
+**Expressions** are made up with operators, operands and functions.
+
+**Everything constituting expression** is object
+
 
 Boolean-type operators: and, or, not
