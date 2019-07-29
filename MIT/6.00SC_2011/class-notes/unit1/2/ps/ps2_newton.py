@@ -67,5 +67,14 @@ def compute_root(poly, x_0, epsilon):
     epsilon: float > 0
     returns: tuple (float, int)
     """
-    # TO DO ... 
+    # TO DO ...
+    cnt = 0
+    x = x_0
+    while True:
+        result = 0
+        for idx, val in enumerate(poly):
+            result += val * (x ** idx)
+        cnt += 1
+        if result < epsilon:
+            break
 
